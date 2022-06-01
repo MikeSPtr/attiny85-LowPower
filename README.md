@@ -3,15 +3,6 @@
 AVR Atmel ATtiny85 Deep Sleep Low Power mode (~0.02µA) with external interrupt on Arduino.
 
 ### Project Goals
-The main goal of the project is to show how to turn low power sleep mode for ATiny85 in an Arduino environment.
-In the sleep mode ATiny85 consumes ~0.02µA for 3V. That's theoretical years of 200mAH CR2032 battery lifetime.
-
-There are examples showing how to apply low power sleep mode for ATtiny85, e.g. [technoblogy: ATtiny Low Power](http://www.technoblogy.com/show?KX0).
-However, these examples use "Reset" to interrupt sleep mode. In this project we use "External Interruption", that allows us to # attiny85-LowPower (0.02µA) 
-
-AVR Atmel ATtiny85 Deep Sleep Low Power mode (~0.02µA) with external interrupt on Arduino.
-
-### Project Goals
 The main goal of the project is show how to turn low power sleep mode for ATiny85 in an Arduino environment.
 In the sleep mode ATiny85 consumes ~0.02µA for 3V. That's theoretical years of 200mAH CR2032 battery lifetime.
 
